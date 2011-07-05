@@ -1,0 +1,14 @@
+*.a
+*.o
+*.moc
+
+.DS_Store
+
+/DropSendClient-build-desktop
+/DropSendUpdater-build-desktop
+/DropSendConfigurator-build-desktop
+/InstallationUtility/build
+/DropSendDirectbeta
+
+/qt-dropsend-app.rar
+**/*.pro.user
