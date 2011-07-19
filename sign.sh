@@ -1,1 +1,4 @@
-codesign -s "DropSend, Ltd" -f "/Users/user/Development/Projects/DropsendDesktop/client/DropSendClient-build-desktop/DropSend Direct beta.app"
+codesign -s "DropSend, Ltd" -f "Contents/MacOS/configurator"
+codesign -s "DropSend, Ltd" -f "Contents/MacOS/DropSend Direct beta"
+codesign -s "DropSend, Ltd" -f "Contents/MacOS/DropSendInstallationUtility"
+codesign -s "DropSend, Ltd" -f "Contents/MacOS/DropSendUpdater"
