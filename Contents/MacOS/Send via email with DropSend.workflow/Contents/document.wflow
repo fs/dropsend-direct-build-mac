@@ -55,7 +55,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>"//Users/arty/Development/Projects/DropSendDesktop/client/DropSendClient-build-desktop/DropSend Direct beta.app/Contents/MacOS/DropSend Direct beta" --send "$@"</string>
+					<string>"/Users/user/Development/Projects/DropsendDesktop/client/DropSendClient-build-desktop/DropSend Direct beta.app/Contents/MacOS/DropSend Direct beta" --send "$@"</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
